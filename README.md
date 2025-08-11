@@ -6,10 +6,5 @@ Berisi catatan, eksperimen kode, dan sumber belajar yang saya kumpulkan sepanjan
 ---
 
 ## 📂 Struktur
-- **`topics/`** → Catatan dan kode berdasarkan topik (misal: Python, Web Dev, Algoritma).
-- **`resources/`** → Kumpulan referensi seperti buku, artikel, dan video.
-
----
-
-## 📜 Lisensi
-[MIT License](LICENSE)
+- **`topics/`** → Catatan dan kode berdasarkan topik.
+- **`resources/`** → Kumpulan referensi seperti buku, artikel, library, dan video.
