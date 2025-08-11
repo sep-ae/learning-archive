@@ -8,7 +8,7 @@ print("************************")
 
 nama_user = input("masukkan nama anda : ")
 
-print(f"halo {nama_user} goa berapa ")
+print(f"halo {nama_user} tebak berapa ")
 
 while True:
     pilihan_user = int(input("tebak : "))
