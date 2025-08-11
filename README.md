@@ -1,7 +1,6 @@
 # 📚 Learning Archive
 
-**Learning Archive** adalah arsip perjalanan belajar saya di dunia teknologi & pemrograman.  
-Berisi catatan, eksperimen kode, dan sumber belajar yang saya kumpulkan sepanjang proses belajar.
+**Learning Archive** adalah arsip perjalanan belajar saya di dunia teknologi & pemrograman. Berisi catatan, eksperimen kode, dan sumber belajar yang saya kumpulkan sepanjang proses belajar.
 
 ---
 
