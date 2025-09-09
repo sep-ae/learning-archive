@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CryptoApp</title>
+    <link href="/src/style.css" rel="stylesheet" />
+    <link rel="icon" href="/src/icon.png" type="image" />
+  </head>
+  <body class="bg-gray-900">
+    <!-- Navbar -->
+    <header class="bg-gray">
+      <nav
+        class="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8"
+      >
+        <!-- Logo -->
+        <div class="flex lg:flex-1">
+          <a href="#" class="-m-1.5 p-1.5 flex items-center">
+            <img
+              src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+              alt="Logo"
+              class="h-8 w-auto"
+            />
+            <span class="ml-2 text-white font-bold">CryptoApp</span>
+          </a>
+        </div>
+
+        <!-- Menu -->
+        <div class="lg:flex lg:gap-x-12">
+          <a
+            href="#"
+            data-page="beranda"
+            class="nav-link text-sm font-semibold text-white hover:text-gray-400"
+            >Beranda</a
+          >
+          <a
+            href="#"
+            data-page="encrypt"
+            class="nav-link text-sm font-semibold text-white hover:text-gray-400"
+            >Encrypt</a
+          >
+          <a
+            href="#"
+            data-page="decrypt"
+            class="nav-link text-sm font-semibold text-white hover:text-gray-400"
+            >Decrypt</a
+          >
+        </div>
+      </nav>
+    </header>
+
+    <!-- Maoin Content -->
+    <main id="app" class="p-6"></main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
